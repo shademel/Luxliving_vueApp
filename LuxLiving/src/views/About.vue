@@ -26,7 +26,7 @@
       </div>
     </header>
   </section>
-
+  
   <section class="py-5 my-5" id="features">
     <div class="container px-4 pb-5 mb-5 mt-3">
       <div class="row justify-content-between align-items-center">
